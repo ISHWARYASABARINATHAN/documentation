@@ -5,6 +5,10 @@
 Studio
 ======
 
+======
+Studio
+======
+
 .. toctree::
    :titlesonly:
 
@@ -18,7 +22,7 @@ Studio
 **Odoo Studio** is a toolbox used to customize Odoo without coding knowledge. For example, in any
 app, add or modify:
 
-- :doc:`Fields <studio/fields>`
+- :doc:`Fields <studio/fields>
 - :doc:`Views <studio/views>`
 - :doc:`Models <studio/models_modules_apps>`
 - :doc:`Automation rules <studio/automated_actions>`
@@ -35,7 +39,13 @@ To access **Studio**, navigate to the app and model you want to modify, then cli
 :icon:`oi-studio` (:guilabel:`Toggle Studio`) icon. Alternatively, with any app open, click the
 :icon:`oi-studio` (:guilabel:`Toggle Studio`) icon and navigate to the relevant app and model.
 
+wrong
+--
+
 To close **Studio**, click :guilabel:`Close` in the upper-right corner.
+
+.. image:: studio/uncompressed.png
+   :alt:
 
 .. warning::
    Installing **Studio** in an Odoo database on the *Standard* pricing plan automatically triggers
