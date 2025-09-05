@@ -1,6 +1,5 @@
-==========================================
 Chapter 4: Security - A Brief Introduction
-==========================================
+
 
 In the :doc:`previous chapter <03_basicmodel>`, we created our first table
 intended to store business data. In a business application such as Odoo, one of the first questions
